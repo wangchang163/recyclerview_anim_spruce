@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">recyclerview_spruce_anim</string>
+    <string name="default_sort">default_sort</string>
+    <string name="cornered_sort">cornered_sort</string>
+    <string name="continuous_sort">continuous_sort</string>
+    <string name="continuous_weighted_sort">continuous_weighted_sort</string>
+    <string name="inline_sort">inline_sort</string>
+    <string name="linear_sort">linear_sort</string>
+    <string name="radial_sort">radial_sort</string>
+    <string name="snake_sort">snake_sort</string>
+    <string name="random_sort">random_sort</string>
+    <string name="alpha">alpha</string>
+    <string name="rotation">rotation</string>
+    <string name="rotationX">rotationX</string>
+    <string name="rotationY">rotationY</string>
+    <string name="translationX">translationX</string>
+    <string name="translationY">translationY</string>
+    <string name="scaleX">scaleX</string>
+    <string name="scaleY">scaleY</string>
+
+</resources>

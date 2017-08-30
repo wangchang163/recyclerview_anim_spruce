@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/alpha"
+        android:title="@string/alpha"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/rotation"
+        android:title="@string/rotation"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/rotationX"
+        android:title="@string/rotationX"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/rotationY"
+        android:title="@string/rotationY"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/translationX"
+        android:title="@string/translationX"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/translationY"
+        android:title="@string/translationY"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/scaleX"
+        android:title="@string/scaleX"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/scaleY"
+        android:title="@string/scaleY"
+        app:showAsAction="never" />
+</menu>
